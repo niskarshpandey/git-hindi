@@ -1,8 +1,9 @@
-Learn from cahi aur code
+# Learn from cahi aur code
 
-##install
+## install
 
-someting
+```bash
+npm install
+```
 
-what happend 
-what's the error
+
